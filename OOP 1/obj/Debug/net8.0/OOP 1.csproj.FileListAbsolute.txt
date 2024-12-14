@@ -1,0 +1,61 @@
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\OOP 1.exe
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\OOP 1.deps.json
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\OOP 1.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\OOP 1.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\OOP 1.pdb
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\refint\OOP 1.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.pdb
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\ref\OOP 1.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\PdfSharp.Quality.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\PdfSharp.Snippets.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\PdfSharp.System.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\PdfSharp.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\bin\Debug\net8.0\de\PdfSharp.resources.dll
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\OOP 1\OOP 1\obj\Debug\net8.0\OOP 1.csproj.Up2Date
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\OOP 1.exe
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\OOP 1.deps.json
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\OOP 1.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\OOP 1.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\OOP 1.pdb
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\PdfSharp.Quality.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\PdfSharp.Snippets.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\PdfSharp.System.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\PdfSharp.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\bin\Debug\net8.0\de\PdfSharp.resources.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.csproj.AssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.sourcelink.json
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.csproj.Up2Date
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\refint\OOP 1.dll
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.pdb
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\OOP 1.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\ProductInventorySystem\OOP 1\obj\Debug\net8.0\ref\OOP 1.dll
